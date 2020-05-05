@@ -1,0 +1,12 @@
+class HelloWorld{  
+
+    public static void main(String args[]){ 
+    
+     System.out.println("Hello Gayu");  
+     System.out.println("Hello Arun"); 
+     System.out.println("Hello Arjun"); 
+     System.out.println("Hello Anjali"); 
+     System.out.println("Hello Neel"); 
+    
+    }  
+} 
